@@ -22,6 +22,6 @@ Foram desenvolvidos 3 percursos para que a cobrinha percorresse e podem ser alte
 >
 >**P3.2** : Pausa
 >
->**P3.3** : Diminui a velocidade
+>**P3.3** : Aumenta a velocidade
 >
->**P3.4** : Aumenta a velocidade
+>**P3.4** : Diminui a velocidade
